@@ -5,3 +5,5 @@ date: 2016-07-23 15:09:00
 description: frist thing frist 
 ---
 trying something
+
+{% include youtubePlayer.html id=page.COSDU0CB0yE %}
