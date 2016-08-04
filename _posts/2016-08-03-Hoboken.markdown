@@ -7,4 +7,4 @@ description: Breakfast and Lincoln Harbor sightseeing
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/0-bUIWm6UMI" frameborder="0"> </iframe>
 
-First day in Hoboken and Lincoln in fantastic!!!
+First day in Hoboken and Lincoln is fantastic!!!
