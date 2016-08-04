@@ -2,7 +2,7 @@
 layout: post
 title: First day in Hoboken
 date: 2016-08-03 18:09:00
-description: Breakfast and Lincoln Harbor
+description: Breakfast and Lincoln Harbor sightseeing
 ---
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/34wUUoFEPng" frameborder="0"> </iframe>
