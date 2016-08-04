@@ -7,4 +7,4 @@ description: Running in those path is unforgetable!
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/dopACcDQHMc" frameborder="0"> </iframe>
 
-Running in those path is unforgetable!
+Running on those path is unforgetable!
