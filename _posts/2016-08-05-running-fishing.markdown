@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazing running & fishing with Hudson river 
+title: Amazing running & fishing around Hudson river 
 date: 2016-08-05 08:29:00
 description: Breakfast and Lincoln Harbor sightseeing
 ---
