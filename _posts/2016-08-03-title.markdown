@@ -5,6 +5,6 @@ date: 2016-08-03 18:09:00
 description: Breakfast and Lincoln Harbor sightseeing
 ---
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/34wUUoFEPng" frameborder="0"> </iframe>
+<iframe width="400" height="300" src="http://www.youtube.com/embed/34wUUoFEPng" frameborder="0"> </iframe>
 
 First day in Hoboken and Lincoln in fantastic!!!
