@@ -7,12 +7,13 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-This is WangSong’s journey.
-
 Life is a journey to learn and experience the entire world.
 
+This is Song’s journey.
+
 Reach me by clicking the icons below.
- <a href="http://reddit.com" target="blank">subreddit</a>. blablabla <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+
+ <!-- <a href="http://reddit.com" target="blank">subreddit</a>. blablabla <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them.  -->
 
 
 <br/>
