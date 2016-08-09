@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /poetry/
+permalink: /blog/
 title: blog
 description: blog
 ---
